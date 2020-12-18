@@ -1,0 +1,31 @@
+.title{
+    font-size:30px;
+    font-weight:bold;
+    color:rgb(46, 13, 100);
+    text-shadow: 1px 1px #2b1b1b;
+}
+.container{
+    border: 5px solid #020202;
+    box-sizing: border-box;
+    width:50%;
+    height:300px;
+    text-align:center;
+    background-color:rgb(188, 188, 236);
+
+}
+.textF{
+    text-align:center;
+    background-color:rgb(223, 223, 74);
+}
+.guessesLeft{
+    font-size:20px;
+    color:blue;
+    text-shadow: 1px 1px #2b1b1b;
+    padding-bottom:40px;
+    padding-top: 20px;
+}
+.message{
+    font-size:30px;
+    color:rgb(255, 123, 0);
+    text-shadow: 1px 1px #2b1b1b;
+}
